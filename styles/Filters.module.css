@@ -1,0 +1,16 @@
+.filters {
+    padding: 20px;
+    width: 100%;
+    border: 1px white solid;
+    border-radius: 10px;
+    margin: 10px;
+   }
+  
+   .filter-input {
+    padding: 5px;
+      margin: 5px;
+   }
+   .filter-Button {
+    padding: 10px;
+    width: 100px;
+   }
